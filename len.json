@@ -1,1 +1,56 @@
-
+[
+  {
+    "id": 145,
+    "name": "Kultura splash wave mountain resort La union",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/grelennn/master/pic/1.jpg",
+    "price": 350,
+    "priceCurrency": "₱",
+    "lat": 16.320945,
+    "lng": 120.470752
+  },
+  {
+    "id": 148,
+    "name": "Sunset Bay La union",
+    "imageUrl": "https://github.com/macagba0726/grelennn/blob/master/pic/2.jpg",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 16.544041,
+    "lng": 120.324377
+  },
+  {
+    "id": 201,
+    "name": "Bahay na Bato Launion",
+    "imageUrl": "https://github.com/macagba0726/grelennn/blob/master/pic/3.jpg",
+    "price": 150,
+    "priceCurrency": "₱",
+    "lat": 16.336609,
+    "lng": 120.478857
+  },
+  {
+    "id": 205,
+    "name": "Kahuna beach resort and Spa La Union",
+    "imageUrl": "https://github.com/macagba0726/grelennn/blob/master/pic/4.jpg",
+    "price": 300,
+    "priceCurrency": "₱",
+    "lat": 16.657479,
+    "lng": 120.320558
+  },
+  {
+    "id": 211,
+    "name": "Bauang Grapes La union",
+    "imageUrl": "https://github.com/macagba0726/grelennn/blob/master/pic/5.JPG",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 16.608991,
+    "lng": 120.286336
+  },
+    {
+    "id": 212,
+    "name": "Botanical Garden La Union",
+    "imageUrl": "https://github.com/macagba0726/grelennn/blob/master/pic/6.jpg",
+    "price": 250,
+    "priceCurrency": "₱",
+    "lat": 16.621112,
+    "lng": 120.317487
+  }
+]
